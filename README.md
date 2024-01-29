@@ -1,3 +1,7 @@
+# ICE 2 Demo
+
+Link to Video Submission: https://usafa0.sharepoint.com/sites/ECE281-Trimble/_layouts/15/stream.aspx?id=%2Fsites%2FECE281%2DTrimble%2FShared%20Documents%2FTrimble%2F%5FPut%5FDemos%5FHere%5F%2FICE2%2FDouglas%5FICE2%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
 # ICE 2: Half-Adder
 
 Code for [ECE 281 ICE 2: Half-Adder](https://usafa-ece.github.io/ece281-book/ICE/ICE2.html)

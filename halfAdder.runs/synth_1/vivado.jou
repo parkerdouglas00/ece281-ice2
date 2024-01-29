@@ -2,8 +2,8 @@
 # Vivado v2018.2 (64-bit)
 # SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
 # IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
-# Start of session at: Sun Jan 28 16:59:23 2024
-# Process ID: 5288
+# Start of session at: Sun Jan 28 17:16:24 2024
+# Process ID: 23796
 # Current directory: C:/Users/Parker.Douglas/code/ece281-ice2/halfAdder.runs/synth_1
 # Command line: vivado.exe -log halfAdder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source halfAdder.tcl
 # Log file: C:/Users/Parker.Douglas/code/ece281-ice2/halfAdder.runs/synth_1/halfAdder.vds
