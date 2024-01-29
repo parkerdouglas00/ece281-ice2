@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Parker.Douglas/code/ece281-ice2/src/hdl/halfAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity halfAdder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Parker.Douglas/code/ece281-ice2/src/hdl/halfAdder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity halfAdder_tb
